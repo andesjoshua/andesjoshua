@@ -8,4 +8,16 @@
 - Fintech
 - NextJS
 
--- hello
+----------------------------------------------------------------------
+## Here is what I'm doing/aspire to be doing to delve deeper into some of these technologies:
+- Learning Solidity
+- Writing blogs about blockchain technology and what use-cases it has
+- Creating applications with NextJS
+
+
+
+
+
+
+
+
